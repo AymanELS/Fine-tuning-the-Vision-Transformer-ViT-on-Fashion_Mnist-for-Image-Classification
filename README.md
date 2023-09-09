@@ -12,7 +12,7 @@ Similar to other transformer models, ViT is pre-trained on large corpus of image
 
 ![alt text](https://github.com/AymanELS/Fine-tuning-the-Vision-Transformer-ViT-on-Fashion_Mnist-for-Image-Classification/blob/main/ViT.png)
 
-Source: This model was introduced by the Google Brain Research Team in the followin paper: (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)[https://arxiv.org/abs/2010.11929]
+Source: (An Image is Worth 16x16 Words Transformers for Image Recognition at Scale)[https://arxiv.org/abs/2010.11929]
 
 ## Dataset
 The dataset used in this project is the Fashon_Mnist which consists of 60,000 images for training and 10,000 images for testing. Each image is a 28x28 grayscale image, with a label from 10 different classes. 
